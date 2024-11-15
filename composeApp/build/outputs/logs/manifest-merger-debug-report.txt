@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.activity:activity:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/236952c05ed2e46dc981900748fdb6cd/transformed/activity-1.9.3/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/8e04942153444dff650090dffbfa67a9/transformed/navigation-common-ktx-2.8.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/efddf3e1a92f761db060f7f88658dc5a/transformed/navigation-runtime-2.8.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/2d965bfd635ac6e7a7648546d0fa7c73/transformed/navigation-common-2.8.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/e1526b796e4ef008a8b3738c4baaa4ed/transformed/navigation-runtime-ktx-2.8.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/1ff53aaa18e78ea52e2baf7e0dcbcf77/transformed/navigation-compose-2.8.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f551a6085d4a1343ca213ce2025ebc5a/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/92e414f16ba9cebe1d68d0ae75a9653b/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5e3624addf74b5b3743882f83178855a/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c6cefc78337821397edb6c5aaf5c9142/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/233fe0efd8222433a66ccf505e256b9d/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/aabbff68fbc66224b26f55f56fe14300/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c95feabfc8e80d756b06e89ebe29c086/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/7833330a444ccbb7481bcd7143cefe9e/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f1d373898bfc1c1454e7d176e2073510/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5a50ae129f0f14f74f7fff8af3cfb458/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/2226aad57d8d10f8da26eff57ce924d5/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e29b0cba9bf7da9becf72d85ee90cc53/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/09815e9bc877b8fc94b1b1b81eb3a9a7/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ee0a06e02b4c4c75496f3fd835647216/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ab1839db7a4159f7a900e7394e81f374/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/82ff6111e581124b4b9c3adcce0b6ce6/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dd27d582a65ae233791197eb4b41e1b4/transformed/core-bundle-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6fae8a71aad5b641e36668e9886696ad/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dc29a1e2ba333c265c5b52c8acaa4691/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a99db8aeea7531c8d6415f7f6dfbbb6d/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/99b07e24c0d69b46b7257772aae5a209/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/93c4f5c7eaf2301a64156595dbb509c8/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/642ed85a8038ab039791d479488fd44b/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/bb8ab39c872a6fc68f78b8b0d5ec1006/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/271d899721328fdec27ded78dc546e27/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/580b5a73621e5f8c0b706cafaf907217/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/3683787efe1348144376f07aac75522e/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/383926ac099967daed7784b4c7a3652e/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/61d027ffe3d675fbc49d52ba7e191d84/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/90d7f82929105d80c076b2a9725e3c63/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/593a077db2f7549de3866fe9aab62eff/transformed/activity-ktx-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/b1988fe0338236ce0e7ba44b7bfc7da8/transformed/activity-compose-1.9.3/AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/170f4edc62a1c3a952ecb41f096e30be/transformed/library-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/4a7220e7a045f420b99cac5f4fa1daec/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/8be9e2ba7394771ca9fcfc254e767c46/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/talha.oz/.gradle/caches/8.9/transforms/692bc0a765d12615bdbc364ec5b5d493/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/talha.oz/.gradle/caches/8.9/transforms/0b6dd3e88dc48d67a786cfb84a98cf05/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/a3644403689af9cea9336ff9261e45c6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6401304130c6129d00bf9dc141a76aca/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a4587959d1c665854701f385ce2ac10b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+	package
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:4:5-21:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:7:5-14:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a4587959d1c665854701f385ce2ac10b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a4587959d1c665854701f385ce2ac10b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:10:9-72
+activity#com.talhaoz.kmptypesafenavigationexample.MainActivity
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:11:9-20:20
+	android:exported
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:13:13-225
+	android:name
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/236952c05ed2e46dc981900748fdb6cd/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/236952c05ed2e46dc981900748fdb6cd/transformed/activity-1.9.3/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/8e04942153444dff650090dffbfa67a9/transformed/navigation-common-ktx-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/8e04942153444dff650090dffbfa67a9/transformed/navigation-common-ktx-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/efddf3e1a92f761db060f7f88658dc5a/transformed/navigation-runtime-2.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/efddf3e1a92f761db060f7f88658dc5a/transformed/navigation-runtime-2.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/2d965bfd635ac6e7a7648546d0fa7c73/transformed/navigation-common-2.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/2d965bfd635ac6e7a7648546d0fa7c73/transformed/navigation-common-2.8.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/e1526b796e4ef008a8b3738c4baaa4ed/transformed/navigation-runtime-ktx-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/e1526b796e4ef008a8b3738c4baaa4ed/transformed/navigation-runtime-ktx-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/1ff53aaa18e78ea52e2baf7e0dcbcf77/transformed/navigation-compose-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] /Users/talha.oz/.gradle/caches/8.9/transforms/1ff53aaa18e78ea52e2baf7e0dcbcf77/transformed/navigation-compose-2.8.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f551a6085d4a1343ca213ce2025ebc5a/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f551a6085d4a1343ca213ce2025ebc5a/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/92e414f16ba9cebe1d68d0ae75a9653b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/92e414f16ba9cebe1d68d0ae75a9653b/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5e3624addf74b5b3743882f83178855a/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5e3624addf74b5b3743882f83178855a/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c6cefc78337821397edb6c5aaf5c9142/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c6cefc78337821397edb6c5aaf5c9142/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/233fe0efd8222433a66ccf505e256b9d/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/233fe0efd8222433a66ccf505e256b9d/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/aabbff68fbc66224b26f55f56fe14300/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/aabbff68fbc66224b26f55f56fe14300/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c95feabfc8e80d756b06e89ebe29c086/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/c95feabfc8e80d756b06e89ebe29c086/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/7833330a444ccbb7481bcd7143cefe9e/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/7833330a444ccbb7481bcd7143cefe9e/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f1d373898bfc1c1454e7d176e2073510/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/f1d373898bfc1c1454e7d176e2073510/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5a50ae129f0f14f74f7fff8af3cfb458/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/5a50ae129f0f14f74f7fff8af3cfb458/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/2226aad57d8d10f8da26eff57ce924d5/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/2226aad57d8d10f8da26eff57ce924d5/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e29b0cba9bf7da9becf72d85ee90cc53/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e29b0cba9bf7da9becf72d85ee90cc53/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/09815e9bc877b8fc94b1b1b81eb3a9a7/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/09815e9bc877b8fc94b1b1b81eb3a9a7/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ee0a06e02b4c4c75496f3fd835647216/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ee0a06e02b4c4c75496f3fd835647216/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ab1839db7a4159f7a900e7394e81f374/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/ab1839db7a4159f7a900e7394e81f374/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/82ff6111e581124b4b9c3adcce0b6ce6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/82ff6111e581124b4b9c3adcce0b6ce6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dd27d582a65ae233791197eb4b41e1b4/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dd27d582a65ae233791197eb4b41e1b4/transformed/core-bundle-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6fae8a71aad5b641e36668e9886696ad/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6fae8a71aad5b641e36668e9886696ad/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dc29a1e2ba333c265c5b52c8acaa4691/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/dc29a1e2ba333c265c5b52c8acaa4691/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a99db8aeea7531c8d6415f7f6dfbbb6d/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a99db8aeea7531c8d6415f7f6dfbbb6d/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/99b07e24c0d69b46b7257772aae5a209/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/99b07e24c0d69b46b7257772aae5a209/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/93c4f5c7eaf2301a64156595dbb509c8/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/93c4f5c7eaf2301a64156595dbb509c8/transformed/lifecycle-viewmodel-ktx-2.8.5/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/642ed85a8038ab039791d479488fd44b/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/642ed85a8038ab039791d479488fd44b/transformed/lifecycle-livedata-core-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/bb8ab39c872a6fc68f78b8b0d5ec1006/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/bb8ab39c872a6fc68f78b8b0d5ec1006/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/271d899721328fdec27ded78dc546e27/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/271d899721328fdec27ded78dc546e27/transformed/lifecycle-viewmodel-savedstate-2.8.5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/580b5a73621e5f8c0b706cafaf907217/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/talha.oz/.gradle/caches/8.9/transforms/580b5a73621e5f8c0b706cafaf907217/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/3683787efe1348144376f07aac75522e/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/3683787efe1348144376f07aac75522e/transformed/lifecycle-runtime-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/383926ac099967daed7784b4c7a3652e/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/383926ac099967daed7784b4c7a3652e/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/61d027ffe3d675fbc49d52ba7e191d84/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/61d027ffe3d675fbc49d52ba7e191d84/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/90d7f82929105d80c076b2a9725e3c63/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/90d7f82929105d80c076b2a9725e3c63/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/593a077db2f7549de3866fe9aab62eff/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/593a077db2f7549de3866fe9aab62eff/transformed/activity-ktx-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/b1988fe0338236ce0e7ba44b7bfc7da8/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] /Users/talha.oz/.gradle/caches/8.9/transforms/b1988fe0338236ce0e7ba44b7bfc7da8/transformed/activity-compose-1.9.3/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/170f4edc62a1c3a952ecb41f096e30be/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/170f4edc62a1c3a952ecb41f096e30be/transformed/library-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/4a7220e7a045f420b99cac5f4fa1daec/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/4a7220e7a045f420b99cac5f4fa1daec/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/8be9e2ba7394771ca9fcfc254e767c46/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/8be9e2ba7394771ca9fcfc254e767c46/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/talha.oz/.gradle/caches/8.9/transforms/692bc0a765d12615bdbc364ec5b5d493/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/talha.oz/.gradle/caches/8.9/transforms/692bc0a765d12615bdbc364ec5b5d493/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/talha.oz/.gradle/caches/8.9/transforms/0b6dd3e88dc48d67a786cfb84a98cf05/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/talha.oz/.gradle/caches/8.9/transforms/0b6dd3e88dc48d67a786cfb84a98cf05/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/a3644403689af9cea9336ff9261e45c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/a3644403689af9cea9336ff9261e45c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6401304130c6129d00bf9dc141a76aca/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/talha.oz/.gradle/caches/8.9/transforms/6401304130c6129d00bf9dc141a76aca/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a4587959d1c665854701f385ce2ac10b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a4587959d1c665854701f385ce2ac10b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/talha.oz/Documents/AndroidProjects/Personal/KMPTypeSafeNavigationExample/composeApp/src/androidMain/AndroidManifest.xml
+provider#org.jetbrains.compose.resources.AndroidContextProvider
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:8:9-13:20
+	android:enabled
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:11:13-35
+	android:authorities
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:10:13-84
+	android:exported
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.0] /Users/talha.oz/.gradle/caches/8.9/transforms/75dfa5e6418645d0d7db6375a111b069/transformed/library-release/AndroidManifest.xml:9:13-82
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.1] /Users/talha.oz/.gradle/caches/8.9/transforms/e54561fd4e5326a93e92e538b6b07ac2/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/talha.oz/.gradle/caches/8.9/transforms/a49ca82ef63f896f5103954471c7dd46/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/talha.oz/.gradle/caches/8.9/transforms/c0930bdd0d1d703f5beb182a8beb3da5/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.talhaoz.kmptypesafenavigationexample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.talhaoz.kmptypesafenavigationexample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/talha.oz/.gradle/caches/8.9/transforms/03a78b4e44cf0f3dd60018148e7d0ae6/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] /Users/talha.oz/.gradle/caches/8.9/transforms/5b775179bb6bc402381e467e4a56ef1c/transformed/lifecycle-process-2.8.5/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/talha.oz/.gradle/caches/8.9/transforms/d1ea5e0fba350ed249b346779a30abef/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
